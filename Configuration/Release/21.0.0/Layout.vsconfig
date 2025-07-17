@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "components": [
+    "Microsoft.VisualStudio.Component.CoreEditor",
+    "Microsoft.VisualStudio.Component.MSODBC.SQL",
+    "Microsoft.VisualStudio.Workload.SSMSCore",
+    "Microsoft.SSMS.Component.AS",
+    "Microsoft.SSMS.Component.RS",
+    "Microsoft.SSMS.Component.MigrationAssistant",
+    "Microsoft.Component.HelpViewer",
+    "Microsoft.VisualStudio.Component.TeamExplorer.MinGit",
+    "Microsoft.SSMS.Component.Core"
+  ],
+  "extensions": []
+}
